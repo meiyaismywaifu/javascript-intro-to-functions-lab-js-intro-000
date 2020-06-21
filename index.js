@@ -3,17 +3,17 @@ function shout(string){
 }
 
 function whisper(string){
-  
+
 }
 
 function logShout(string){
-  
+
 }
 
 function longWhisper(string){
-  
+
 }
 
 function sayHiToGrandma(string){
-  
+
 }
