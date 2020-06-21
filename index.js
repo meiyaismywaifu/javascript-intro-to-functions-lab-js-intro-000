@@ -27,6 +27,7 @@ function sayHiToGrandma(string){
   else {
     return; // grandma says nothing.
   }
+  
   /*
   string.toLowerCase() === string
   string.toUpperCase() === string
