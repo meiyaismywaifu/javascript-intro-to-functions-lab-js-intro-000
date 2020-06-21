@@ -26,6 +26,7 @@ function sayHiToGrandma(string){
   }
   else {
     return; // grandma says nothing.
+    // apparently "return()" is not a valid thingy and breaks everything.
   }
 
   /*
